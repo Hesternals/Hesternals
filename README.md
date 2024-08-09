@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hesternals
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Full-Stack Engineering
+- 🌱 I’m currently learning Front-End Developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
